@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{4AE9EEA2-00AD-BD57-B945-26EE3EE537CE}") = "UniWalk", "Assembly-CSharp.csproj", "{A22A2220-B6C8-9E2F-0245-1B6DDF783AEF}"
 EndProject
+Project("{4AE9EEA2-00AD-BD57-B945-26EE3EE537CE}") = "UniWalk", "Assembly-UnityScript.unityproj", "{AFB69294-03E2-36A5-07C7-6A0D66FDBB11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{A22A2220-B6C8-9E2F-0245-1B6DDF783AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A22A2220-B6C8-9E2F-0245-1B6DDF783AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A22A2220-B6C8-9E2F-0245-1B6DDF783AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFB69294-03E2-36A5-07C7-6A0D66FDBB11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB69294-03E2-36A5-07C7-6A0D66FDBB11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB69294-03E2-36A5-07C7-6A0D66FDBB11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB69294-03E2-36A5-07C7-6A0D66FDBB11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

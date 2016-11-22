@@ -29,7 +29,7 @@ public class UnityDemo : MonoBehaviour {
 
 		if (Input.GetKey ("space") && Jf == 0) {
 		Rigidbody Uni = GetComponent<Rigidbody>();
-			Uni.AddForce(0, 500, 0);
+			Uni.AddForce(0, 300, 0);
 			animator.SetBool("Jamp", true);
 			Jf = 1;
 		}
